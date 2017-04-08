@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Statistics>
+	<Statistic>
+		<Title>Town of Salem Games Played</Title>
+		<id>0</id>
+		<Priority>0</Priority>
+		<Icon>32</Icon>
+		<Genre>3</Genre>
+		<Role>999</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Town of Salem Games Won</Title>
+		<id>1</id>
+		<Priority>1</Priority>
+		<Icon>32</Icon>
+		<Genre>3</Genre>
+		<Role>999</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Town of Salem Ranked Games Played</Title>
+		<id>2</id>
+		<Priority>2</Priority>
+		<Icon>32</Icon>
+		<Genre>3</Genre>
+		<Role>999</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Town of Salem Ranked Games Won</Title>
+		<id>3</id>
+		<Priority>3</Priority>
+		<Icon>32</Icon>
+		<Genre>3</Genre>
+		<Role>999</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Ranked ELO</Title>
+		<id>4</id>
+		<Priority>4</Priority>
+		<Icon>32</Icon>
+		<Genre>3</Genre>
+		<Role>999</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with BodyGuard</Title>
+		<id>5</id>
+		<Priority>5</Priority>
+		<Icon>27</Icon>
+		<Genre>0</Genre>
+		<Role>0</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Doctor</Title>
+		<id>6</id>
+		<Priority>6</Priority>
+		<Icon>4</Icon>
+		<Genre>0</Genre>
+		<Role>1</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Escort</Title>
+		<id>7</id>
+		<Priority>7</Priority>
+		<Icon>22</Icon>
+		<Genre>0</Genre>
+		<Role>2</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Investigator</Title>
+		<id>8</id>
+		<Priority>8</Priority>
+		<Icon>11</Icon>
+		<Genre>0</Genre>
+		<Role>3</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Jailor</Title>
+		<id>9</id>
+		<Priority>9</Priority>
+		<Icon>7</Icon>
+		<Genre>0</Genre>
+		<Role>4</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Lookout</Title>
+		<id>10</id>
+		<Priority>10</Priority>
+		<Icon>10</Icon>
+		<Genre>0</Genre>
+		<Role>5</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Mayor</Title>
+		<id>11</id>
+		<Priority>11</Priority>
+		<Icon>14</Icon>
+		<Genre>0</Genre>
+		<Role>6</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Medium</Title>
+		<id>12</id>
+		<Priority>12</Priority>
+		<Icon>5</Icon>
+		<Genre>0</Genre>
+		<Role>7</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Retributionist</Title>
+		<id>13</id>
+		<Priority>13</Priority>
+		<Icon>13</Icon>
+		<Genre>0</Genre>
+		<Role>8</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Sheriff</Title>
+		<id>14</id>
+		<Priority>14</Priority>
+		<Icon>3</Icon>
+		<Genre>0</Genre>
+		<Role>9</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Spy</Title>
+		<id>15</id>
+		<Priority>15</Priority>
+		<Icon>2</Icon>
+		<Genre>0</Genre>
+		<Role>10</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Transporter</Title>
+		<id>16</id>
+		<Priority>16</Priority>
+		<Icon>20</Icon>
+		<Genre>0</Genre>
+		<Role>11</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Vampire Hunter</Title>
+		<id>17</id>
+		<Priority>17</Priority>
+		<Icon>35</Icon>
+		<Genre>0</Genre>
+		<Role>13</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Veteran</Title>
+		<id>18</id>
+		<Priority>18</Priority>
+		<Icon>28</Icon>
+		<Genre>0</Genre>
+		<Role>13</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Vigilante</Title>
+		<id>19</id>
+		<Priority>19</Priority>
+		<Icon>21</Icon>
+		<Genre>0</Genre>
+		<Role>13</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Blackmailer</Title>
+		<id>20</id>
+		<Priority>20</Priority>
+		<Icon>19</Icon>
+		<Genre>1</Genre>
+		<Role>15</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Consigliere</Title>
+		<id>21</id>
+		<Priority>21</Priority>
+		<Icon>18</Icon>
+		<Genre>1</Genre>
+		<Role>16</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Consort</Title>
+		<id>22</id>
+		<Priority>22</Priority>
+		<Icon>23</Icon>
+		<Genre>1</Genre>
+		<Role>17</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Disguiser</Title>
+		<id>23</id>
+		<Priority>23</Priority>
+		<Icon>16</Icon>
+		<Genre>1</Genre>
+		<Role>18</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Forger</Title>
+		<id>24</id>
+		<Priority>24</Priority>
+		<Icon>34</Icon>
+		<Genre>1</Genre>
+		<Role>19</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Framer</Title>
+		<id>25</id>
+		<Priority>25</Priority>
+		<Icon>17</Icon>
+		<Genre>1</Genre>
+		<Role>20</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Godfather</Title>
+		<id>26</id>
+		<Priority>26</Priority>
+		<Icon>24</Icon>
+		<Genre>1</Genre>
+		<Role>21</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Janitor</Title>
+		<id>27</id>
+		<Priority>27</Priority>
+		<Icon>26</Icon>
+		<Genre>1</Genre>
+		<Role>22</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Mafioso</Title>
+		<id>28</id>
+		<Priority>28</Priority>
+		<Icon>25</Icon>
+		<Genre>1</Genre>
+		<Role>23</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Amnesiac</Title>
+		<id>29</id>
+		<Priority>29</Priority>
+		<Icon>9</Icon>
+		<Genre>2</Genre>
+		<Role>24</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Arsonist</Title>
+		<id>30</id>
+		<Priority>30</Priority>
+		<Icon>1</Icon>
+		<Genre>2</Genre>
+		<Role>25</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Executioner</Title>
+		<id>31</id>
+		<Priority>31</Priority>
+		<Icon>8</Icon>
+		<Genre>2</Genre>
+		<Role>26</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Jester</Title>
+		<id>32</id>
+		<Priority>32</Priority>
+		<Icon>0</Icon>
+		<Genre>2</Genre>
+		<Role>27</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with SerialKiller</Title>
+		<id>33</id>
+		<Priority>33</Priority>
+		<Icon>6</Icon>
+		<Genre>2</Genre>
+		<Role>28</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Survivor</Title>
+		<id>34</id>
+		<Priority>34</Priority>
+		<Icon>15</Icon>
+		<Genre>2</Genre>
+		<Role>29</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Vampire</Title>
+		<id>35</id>
+		<Priority>35</Priority>
+		<Icon>36</Icon>
+		<Genre>2</Genre>
+		<Role>30</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Werewolf</Title>
+		<id>36</id>
+		<Priority>36</Priority>
+		<Icon>33</Icon>
+		<Genre>2</Genre>
+		<Role>31</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of wins with Witch</Title>
+		<id>37</id>
+		<Priority>37</Priority>
+		<Icon>12</Icon>
+		<Genre>2</Genre>
+		<Role>32</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Died Protecting Someone</Title>
+		<id>38</id>
+		<Priority>38</Priority>
+		<Icon>27</Icon>
+		<Genre>0</Genre>
+		<Role>0</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times Your Bulletproof Vest Saved You From Death</Title>
+		<id>39</id>
+		<Priority>39</Priority>
+		<Icon>27</Icon>
+		<Genre>0</Genre>
+		<Role>0</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Healed Someone And Kept Them From Dying</Title>
+		<id>40</id>
+		<Priority>40</Priority>
+		<Icon>4</Icon>
+		<Genre>0</Genre>
+		<Role>1</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Healed Yourself And Kept Yourself From Dying</Title>
+		<id>41</id>
+		<Priority>41</Priority>
+		<Icon>4</Icon>
+		<Genre>0</Genre>
+		<Role>1</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Visited a SerialKiller</Title>
+		<id>42</id>
+		<Priority>42</Priority>
+		<Icon>22</Icon>
+		<Genre>0</Genre>
+		<Role>2</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Roleblocked Someone</Title>
+		<id>43</id>
+		<Priority>43</Priority>
+		<Icon>22</Icon>
+		<Genre>0</Genre>
+		<Role>2</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Investigated Someone</Title>
+		<id>44</id>
+		<Priority>44</Priority>
+		<Icon>11</Icon>
+		<Genre>0</Genre>
+		<Role>3</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Executed Someone</Title>
+		<id>45</id>
+		<Priority>45</Priority>
+		<Icon>7</Icon>
+		<Genre>0</Genre>
+		<Role>4</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Jailed A SerialKiller</Title>
+		<id>46</id>
+		<Priority>46</Priority>
+		<Icon>7</Icon>
+		<Genre>0</Genre>
+		<Role>4</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Executed a Town Aligned Member</Title>
+		<id>47</id>
+		<Priority>47</Priority>
+		<Icon>7</Icon>
+		<Genre>0</Genre>
+		<Role>4</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Watched Someone At Night</Title>
+		<id>48</id>
+		<Priority>48</Priority>
+		<Icon>10</Icon>
+		<Genre>0</Genre>
+		<Role>5</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Visited A Veteran</Title>
+		<id>49</id>
+		<Priority>49</Priority>
+		<Icon>10</Icon>
+		<Genre>0</Genre>
+		<Role>5</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Revealed Yourself As The Mayor</Title>
+		<id>50</id>
+		<Priority>50</Priority>
+		<Icon>14</Icon>
+		<Genre>0</Genre>
+		<Role>6</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Had A Seance From The Graveyard</Title>
+		<id>51</id>
+		<Priority>51</Priority>
+		<Icon>5</Icon>
+		<Genre>0</Genre>
+		<Role>7</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Brought A Town Member Back To Life</Title>
+		<id>52</id>
+		<Priority>52</Priority>
+		<Icon>13</Icon>
+		<Genre>0</Genre>
+		<Role>8</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Interrogated Someone</Title>
+		<id>53</id>
+		<Priority>53</Priority>
+		<Icon>3</Icon>
+		<Genre>0</Genre>
+		<Role>9</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Found A Mafia Member</Title>
+		<id>54</id>
+		<Priority>54</Priority>
+		<Icon>3</Icon>
+		<Genre>0</Genre>
+		<Role>9</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Found A SerialKiller</Title>
+		<id>55</id>
+		<Priority>55</Priority>
+		<Icon>3</Icon>
+		<Genre>0</Genre>
+		<Role>9</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Found A Werewolf</Title>
+		<id>56</id>
+		<Priority>56</Priority>
+		<Icon>3</Icon>
+		<Genre>0</Genre>
+		<Role>9</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Eavesdropped On A Private Whisper</Title>
+		<id>57</id>
+		<Priority>57</Priority>
+		<Icon>2</Icon>
+		<Genre>0</Genre>
+		<Role>10</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Saw The Mafia Visit Someone</Title>
+		<id>58</id>
+		<Priority>58</Priority>
+		<Icon>2</Icon>
+		<Genre>0</Genre>
+		<Role>10</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Transported Someone</Title>
+		<id>59</id>
+		<Priority>59</Priority>
+		<Icon>20</Icon>
+		<Genre>0</Genre>
+		<Role>11</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Killed Someone While On Alert</Title>
+		<id>60</id>
+		<Priority>61</Priority>
+		<Icon>28</Icon>
+		<Genre>0</Genre>
+		<Role>13</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Killed A Town Member While On Alert</Title>
+		<id>61</id>
+		<Priority>62</Priority>
+		<Icon>28</Icon>
+		<Genre>0</Genre>
+		<Role>13</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Shot Someone</Title>
+		<id>62</id>
+		<Priority>63</Priority>
+		<Icon>21</Icon>
+		<Genre>0</Genre>
+		<Role>13</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Died Over Guilt Of Shooting A Town Member</Title>
+		<id>63</id>
+		<Priority>64</Priority>
+		<Icon>21</Icon>
+		<Genre>0</Genre>
+		<Role>13</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Blackmailed Someone</Title>
+		<id>64</id>
+		<Priority>65</Priority>
+		<Icon>19</Icon>
+		<Genre>1</Genre>
+		<Role>15</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Investigated Someone</Title>
+		<id>65</id>
+		<Priority>66</Priority>
+		<Icon>18</Icon>
+		<Genre>1</Genre>
+		<Role>16</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Roleblocked Someone</Title>
+		<id>66</id>
+		<Priority>67</Priority>
+		<Icon>23</Icon>
+		<Genre>1</Genre>
+		<Role>17</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Visited A SerialKiller</Title>
+		<id>67</id>
+		<Priority>68</Priority>
+		<Icon>23</Icon>
+		<Genre>1</Genre>
+		<Role>17</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Disguised As Another Role</Title>
+		<id>68</id>
+		<Priority>69</Priority>
+		<Icon>16</Icon>
+		<Genre>1</Genre>
+		<Role>18</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Framed Someone</Title>
+		<id>69</id>
+		<Priority>70</Priority>
+		<Icon>17</Icon>
+		<Genre>1</Genre>
+		<Role>20</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Forged Someones Will</Title>
+		<id>70</id>
+		<Priority>71</Priority>
+		<Icon>34</Icon>
+		<Genre>1</Genre>
+		<Role>21</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Sent A Mafioso To Carry Out Your Will</Title>
+		<id>71</id>
+		<Priority>72</Priority>
+		<Icon>24</Icon>
+		<Genre>1</Genre>
+		<Role>21</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Got Your Hands Dirty And Shot Someone Yourself</Title>
+		<id>72</id>
+		<Priority>73</Priority>
+		<Icon>24</Icon>
+		<Genre>1</Genre>
+		<Role>21</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Cleaned Up A Dead Body</Title>
+		<id>73</id>
+		<Priority>74</Priority>
+		<Icon>26</Icon>
+		<Genre>1</Genre>
+		<Role>22</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Were Promoted To The Godfather</Title>
+		<id>74</id>
+		<Priority>75</Priority>
+		<Icon>25</Icon>
+		<Genre>1</Genre>
+		<Role>23</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Followed The Godfathers Orders</Title>
+		<id>75</id>
+		<Priority>76</Priority>
+		<Icon>25</Icon>
+		<Genre>1</Genre>
+		<Role>23</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Remembered Who You Were</Title>
+		<id>76</id>
+		<Priority>77</Priority>
+		<Icon>9</Icon>
+		<Genre>2</Genre>
+		<Role>24</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Doused Someone In Gas</Title>
+		<id>77</id>
+		<Priority>78</Priority>
+		<Icon>1</Icon>
+		<Genre>2</Genre>
+		<Role>25</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Ignited Someone</Title>
+		<id>78</id>
+		<Priority>79</Priority>
+		<Icon>1</Icon>
+		<Genre>2</Genre>
+		<Role>25</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Got Your Target Lynched</Title>
+		<id>79</id>
+		<Priority>80</Priority>
+		<Icon>8</Icon>
+		<Genre>2</Genre>
+		<Role>26</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Were Promoted To A Jester</Title>
+		<id>80</id>
+		<Priority>81</Priority>
+		<Icon>8</Icon>
+		<Genre>2</Genre>
+		<Role>26</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Got Yourself Lynched</Title>
+		<id>81</id>
+		<Priority>82</Priority>
+		<Icon>0</Icon>
+		<Genre>2</Genre>
+		<Role>27</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Stabbed Someone</Title>
+		<id>82</id>
+		<Priority>83</Priority>
+		<Icon>6</Icon>
+		<Genre>2</Genre>
+		<Role>28</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Stabbed A Jailor For Jailing You</Title>
+		<id>83</id>
+		<Priority>84</Priority>
+		<Icon>6</Icon>
+		<Genre>2</Genre>
+		<Role>28</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Stabbed A Consort Or Escort</Title>
+		<id>84</id>
+		<Priority>85</Priority>
+		<Icon>6</Icon>
+		<Genre>2</Genre>
+		<Role>28</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times Your Bulletproof Vest Saved You From Death</Title>
+		<id>85</id>
+		<Priority>86</Priority>
+		<Icon>15</Icon>
+		<Genre>2</Genre>
+		<Role>29</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of People You have Mauled</Title>
+		<id>86</id>
+		<Priority>88</Priority>
+		<Icon>33</Icon>
+		<Genre>2</Genre>
+		<Role>31</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Mauled A Jailor For Jailing You</Title>
+		<id>87</id>
+		<Priority>89</Priority>
+		<Icon>33</Icon>
+		<Genre>2</Genre>
+		<Role>31</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Mauled A Consort Or Escort</Title>
+		<id>88</id>
+		<Priority>90</Priority>
+		<Icon>33</Icon>
+		<Genre>2</Genre>
+		<Role>31</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Controlled Someone</Title>
+		<id>89</id>
+		<Priority>91</Priority>
+		<Icon>12</Icon>
+		<Genre>2</Genre>
+		<Role>32</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Controlled A Town Member Into Dying By A Veteran</Title>
+		<id>90</id>
+		<Priority>92</Priority>
+		<Icon>12</Icon>
+		<Genre>2</Genre>
+		<Role>32</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Controlled A Vigilante To Kill A Town Member</Title>
+		<id>91</id>
+		<Priority>93</Priority>
+		<Icon>12</Icon>
+		<Genre>2</Genre>
+		<Role>32</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Killed A Vampire</Title>
+		<id>92</id>
+		<Priority>60</Priority>
+		<Icon>35</Icon>
+		<Genre>0</Genre>
+		<Role>12</Role>
+	</Statistic>
+	<Statistic>
+		<Title>Number of Times You Converted Someone To A Vampire</Title>
+		<id>93</id>
+		<Priority>87</Priority>
+		<Icon>36</Icon>
+		<Genre>2</Genre>
+		<Role>30</Role>
+	</Statistic>
+</Statistics>

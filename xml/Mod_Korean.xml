@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entries>
+	<Entry>
+		<id>1</id>
+		<Text>Username not found.</Text>
+		<Color>0xFF0000</Color>
+	</Entry>			
+	<Entry>
+		<id>2</id>
+		<Text>Successfully banned user.</Text>
+		<Color>0xFF0000</Color>
+	</Entry>			
+	<Entry>
+		<id>3</id>
+		<Text>Successfully granted user 1300 Town Points.</Text>
+		<Color>0xFF0000</Color>
+	</Entry>			
+	<Entry>
+		<id>4</id>
+		<Text>Successfully suspended user.</Text>
+		<Color>0xFF0000</Color>
+	</Entry>			
+	<Entry>
+		<id>5</id>
+		<Text>Moderator: </Text>
+		<Color>0xFF0000</Color>
+	</Entry>			
+	<Entry>
+		<id>6</id>
+		<Text>Moderator has suspended </Text>
+		<Color>0xFF0000</Color>
+	</Entry>			
+	<Entry>
+		<id>7</id>
+		<Text>Moderator has banned </Text>
+		<Color>0xFF0000</Color>
+	</Entry>			
+	<Entry>
+		<id>8</id>
+		<Text></Text>
+		<Color>0xFF0000</Color>
+	</Entry>			
+	<Entry>
+		<id>9</id>
+		<Text>Moderator whispering: </Text>
+		<Color>0xFF0000</Color>
+	</Entry>			
+	<Entry>
+		<id>10</id>
+		<Text></Text>
+		<Color>0xFF0000</Color>
+	</Entry>
+	<Entry>
+		<id>11</id>
+		<Text>Successfully unbanned user.</Text>
+		<Color>0xFF0000</Color>
+	</Entry>			
+	<Entry>
+		<id>12</id>
+		<Text>Successfully granted user achievement.</Text>
+		<Color>0xFF0000</Color>
+	</Entry>			
+	<Entry>
+		<id>13</id>
+		<Text>Successfully turned server into %1 login mode.</Text>
+		<Color>0xFF0000</Color>
+	</Entry>			
+	<Entry>
+		<id>14</id>
+		<Text>Message rejected for vulgarity. Continued use of vulgar language may result in automatic suspension.</Text>
+		<Color>0xFF0000</Color>
+	</Entry>			
+	<Entry>
+		<id>15</id>
+		<Text>PromotionID invalid. Do you already own items in promotion?</Text>
+		<Color>0x00FF00</Color>
+	</Entry>			
+	<Entry>
+		<id>16</id>
+		<Text>Successfully Reset Account. Please relog.</Text>
+		<Color>0xFF0000</Color>
+	</Entry>			
+	<Entry>
+		<id>17</id>
+		<Text>ItemID was invalid. Do you already own it?</Text>
+		<Color>0xFF0000</Color>
+	</Entry>
+    <Entry>
+        <id>18</id>
+        <Text>Successfully set tutorial progress.</Text>
+        <Color>0xFF0000</Color>
+    </Entry>
+    <Entry>
+        <id>19</id>
+        <Text>Successfully reloaded promotion xml.</Text>
+        <Color>0xFF0000</Color>
+    </Entry>
+    <Entry>
+        <id>20</id>
+        <Text>Successfully granted promotion to user.</Text>
+        <Color>0xFF0000</Color>
+    </Entry>
+    <Entry>
+        <id>21</id>
+        <Text>Successfully set your role.</Text>
+        <Color>0xFF0000</Color>
+    </Entry>
+    <Entry>
+        <id>22</id>
+        <Text>Failed to set your role.</Text>
+        <Color>0xFF0000</Color>
+    </Entry>
+    <Entry>
+        <id>23</id>
+        <Text>Successfully granted user 5200 Merit Points.</Text>
+        <Color>0xFF0000</Color>
+    </Entry>
+</Entries>
