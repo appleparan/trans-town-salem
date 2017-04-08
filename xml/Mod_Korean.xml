@@ -1,118 +1,117 @@
-<?xml version="1.0" encoding="utf-8"?>
 <Entries>
 	<Entry>
 		<id>1</id>
-		<Text>Username not found.</Text>
+		<Text>사용자 이름을 찾을 수 없습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>2</id>
-		<Text>Successfully banned user.</Text>
+		<Text>사용자를 차단했습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>3</id>
-		<Text>Successfully granted user 1300 Town Points.</Text>
+		<Text>사용자 1300 Town Points를 (를) 성공적으로 부여했습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>4</id>
-		<Text>Successfully suspended user.</Text>
+		<Text>사용자를 일시 중단했습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>5</id>
-		<Text>Moderator: </Text>
+		<Text>중재자:</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>6</id>
-		<Text>Moderator has suspended </Text>
+		<Text>중재자가 일시 중지했습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>7</id>
-		<Text>Moderator has banned </Text>
+		<Text>사회자가 금지했습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>8</id>
-		<Text></Text>
+		<Text />
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>9</id>
-		<Text>Moderator whispering: </Text>
+		<Text>중재자 속삭임 :</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>10</id>
-		<Text></Text>
+		<Text />
 		<Color>0xFF0000</Color>
 	</Entry>
 	<Entry>
 		<id>11</id>
-		<Text>Successfully unbanned user.</Text>
+		<Text>성공적으로 차단되지 않은 사용자입니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>12</id>
-		<Text>Successfully granted user achievement.</Text>
+		<Text>사용자 성취도를 성공적으로 부여했습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>13</id>
-		<Text>Successfully turned server into %1 login mode.</Text>
+		<Text>서버를 % 1 로그인 모드로 전환했습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>14</id>
-		<Text>Message rejected for vulgarity. Continued use of vulgar language may result in automatic suspension.</Text>
+		<Text>저속한 이유로 메시지가 거부되었습니다. 저속한 언어를 계속 사용하면 자동 중단 될 수 있습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>15</id>
-		<Text>PromotionID invalid. Do you already own items in promotion?</Text>
+		<Text>프로모션 ID가 잘못되었습니다. 이미 프로모션에서 아이템을 소유하고 계십니까?</Text>
 		<Color>0x00FF00</Color>
 	</Entry>			
 	<Entry>
 		<id>16</id>
-		<Text>Successfully Reset Account. Please relog.</Text>
+		<Text>계정 재설정에 성공했습니다. relog하십시오.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>17</id>
-		<Text>ItemID was invalid. Do you already own it?</Text>
+		<Text>ItemID가 유효하지 않습니다. 이미 소유하고 계십니까?</Text>
 		<Color>0xFF0000</Color>
 	</Entry>
     <Entry>
         <id>18</id>
-        <Text>Successfully set tutorial progress.</Text>
+        <Text>튜토리얼 진행을 성공적으로 설정했습니다.</Text>
         <Color>0xFF0000</Color>
     </Entry>
     <Entry>
         <id>19</id>
-        <Text>Successfully reloaded promotion xml.</Text>
+        <Text>성공적으로 프로모션 XML을 다시로드했습니다.</Text>
         <Color>0xFF0000</Color>
     </Entry>
     <Entry>
         <id>20</id>
-        <Text>Successfully granted promotion to user.</Text>
+        <Text>사용자에게 프로모션을 성공적으로 부여했습니다.</Text>
         <Color>0xFF0000</Color>
     </Entry>
     <Entry>
         <id>21</id>
-        <Text>Successfully set your role.</Text>
+        <Text>역할을 설정했습니다.</Text>
         <Color>0xFF0000</Color>
     </Entry>
     <Entry>
         <id>22</id>
-        <Text>Failed to set your role.</Text>
+        <Text>역할을 설정하지 못했습니다.</Text>
         <Color>0xFF0000</Color>
     </Entry>
     <Entry>
         <id>23</id>
-        <Text>Successfully granted user 5200 Merit Points.</Text>
+        <Text>사용자 5200 Merit Points를 성공적으로 부여했습니다.</Text>
         <Color>0xFF0000</Color>
     </Entry>
 </Entries>

@@ -1,598 +1,597 @@
-<?xml version="1.0" encoding="utf-8"?>
 <Entries>
 	<Entry>
 		<id>0</id>
-		<Text>Your target is a member of the mafia!</Text>
+		<Text>귀하의 타겟은 마피아의 회원입니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>1</id>
-		<Text>Your target is not suspicious.</Text>
+		<Text>타겟이 의심스럽지 않습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>2</id>
-		<Text>Your target is a member of the Cult!</Text>
+		<Text>귀하의 타겟은 컬트 회원입니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>3</id>
-		<Text>Your target is a Serial Killer!</Text>
+		<Text>귀하의 목표는 직렬 살인자입니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>4</id>
-		<Text>You were executed by the Jailor!</Text>
+		<Text>간수가 처형 당했어!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>5</id>
-		<Text>Someone tried to transport you but you were in jail</Text>
+		<Text>누군가 너를 운반하려했지만 당신은 감옥에 있었어.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>6</id>
-		<Text>You were transported to another location.</Text>
+		<Text>다른 위치로 이송되었습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>7</id>
-		<Text>Someone tried to role block you but you were in jail.</Text>
+		<Text>누군가 당신을 막으려 고했지만 당신은 감옥에갔습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>8</id>
-		<Text>Someone occupied your night. You were role blocked!</Text>
+		<Text>누군가 너의 밤을 점령했다. 당신은 역할이 차단되었습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>9</id>
-		<Text>Someone tried to blackmail you but you were in jail last night.</Text>
+		<Text>누군가 너를 협박하려했지만 어젯밤에 너 감옥에 있었어.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>10</id>
-		<Text>Someone threatened to reveal your secrets. You are blackmailed!</Text>
+		<Text>누군가 당신의 비밀을 밝히겠다고 협박했습니다. 너는 협박 당한다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>11</id>
-		<Text>Someone tried to douse you in gas but you were in jail last night!</Text>
+		<Text>누군가 가스에서 너를 괴롭 히려고했지만 어젯밤에 감옥에 있었어!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>12</id>
-		<Text>You were doused in gas!</Text>
+		<Text>가스에 잠겼습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>13</id>
-		<Text>Someone tried to attack you but you were in jail last night!</Text>
+		<Text>누군가 당신을 공격하려했으나 어제 밤에 감옥에 갔었 어!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>14</id>
-		<Text>You were attacked but someone fought off your attacker!</Text>
+		<Text>당신은 공격 받았지만 누군가 당신의 공격자와 싸웠습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>15</id>
-		<Text>You were attacked but someone nursed you back to health!</Text>
+		<Text>당신은 공격 받았지만 누군가가 당신을 건강에 다시 간호했습니다!</Text>
 		<Color>0x00FF00</Color>
 	</Entry>			
 	<Entry>
 		<id>16</id>
-		<Text>You were attacked by a member of the Mafia!</Text>
+		<Text>마피아 단원이 당신을 공격했습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>17</id>
-		<Text>You were attacked by a Serial Killer!</Text>
+		<Text>당신은 연쇄 살인범에 의해 공격당했습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>18</id>
-		<Text>You were shot by a Vigilante!</Text>
+		<Text>자경단이 총에 맞았 어!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>19</id>
-		<Text>You were set on fire by an Arsonist!</Text>
+		<Text>너 방화범에 불이 붙었다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>20</id>
-		<Text>You were shot by the Veteran you visited!</Text>
+		<Text>당신은 당신이 방문한 베테랑에게 총을 맞았습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>21</id>
-		<Text>You were killed protecting your target!</Text>
+		<Text>당신은 목표물을 보호하고 살해당했습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>22</id>
-		<Text>Your target was attacked last night!</Text>
+		<Text>어젯밤 목표가 공격 당했어!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>23</id>
-		<Text>An Arsonist tried to douse you in gas but a BodyGuard fought off your attacker!</Text>
+		<Text>방화범이 가스로 당신을 죽이려했으나 BodyGuard가 당신의 공격자와 싸웠습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>24</id>
-		<Text>You were murdered by the Serial Killer you visited!</Text>
+		<Text>네가 방문한 연쇄 살인범에 의해 살해 당했어!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>25</id>
-		<Text>Your target has a desire to deceive. They must be a Framer!</Text>
+		<Text>당신의 표적에는 속이는 욕망이 있습니다. 그들은 Framer이어야합니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>26</id>
-		<Text>Your target is skilled at disrupting others. They could be an Escort, Transporter or Consort.</Text>
+		<Text>귀하의 목표는 다른 사람들을 혼란스럽게합니다. 그들은 에스코트, 트랜스 포터 또는 배우자가 될 수 있습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>27</id>
-		<Text>Your target is covered in blood. They could be the Doctor, Disguiser or Serial Killer.</Text>
+		<Text>당신의 표적은 피에 덮여 있습니다. 의사, 변장 또는 연쇄 살인범 일 수 있습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>28</id>
-		<Text>Your target has sensitive information to reveal. They could be the Investigator, Consigliere or Mayor.</Text>
+		<Text>귀하의 타겟은 공개 할 민감한 정보를 가지고 있습니다. 그들은 수사관, Consigliere 또는 시장 수 있습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>29</id>
-		<Text>Your target is a member of an organization. They could be a Mason or a Cultist</Text>
+		<Text>귀하의 목표는 조직의 구성원입니다. 그들은 메이슨이나 이교도 일 수 있습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>
 	<Entry>
 		<id>30</id>
-		<Text>Your target is not afraid to get their hands dirty. They could be the Bodyguard, Godfather or Arsonist.</Text>
+		<Text>당신의 목표는 두 손을 더럽히는 것을 두려워하지 않습니다. 그들은 보디 ​​가드, 대부 또는 방화범이 될 수 있습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>31</id>
-		<Text>Your target owns weapons. They could be a Vigilante, Veteran or Mafioso.</Text>
+		<Text>목표가 무기를 소유하고 있습니다. 그들은 자경단, 베테랑 또는 마피아라고 할 수 있습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>32</id>
-		<Text>Your target works with dead bodies. They could be the Medium, Janitor or Retributionist.</Text>
+		<Text>목표물은 시체와 함께 작동합니다. 매체, 수위 또는 보복 주의자 일 수 있습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>33</id>
-		<Text>Your target keeps to themselves. They could be a Survivor, Vampire Hunter or Witch.</Text>
+		<Text>목표는 스스로를 유지합니다. 그들은 생존자, 뱀파이어 헌터 또는 마녀가 될 수 있습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>34</id>
-		<Text>Your target knows your darkest secrets. They could be the Spy, Blackmailer, or Jailor.</Text>
+		<Text>귀하의 타겟은 가장 어두운 비밀을 알고 있습니다. 그들은 스파이, 협박범 또는 간수 일 수 있습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>35</id>
-		<Text>Your target is waiting for the perfect moment to strike. They could be the Sheriff, Executioner or Werewolf.</Text>
+		<Text>귀하의 목표는 파업의 완벽한 순간을 기다리고 있습니다. 그들은 보안관, 집행자 또는 늑대 인간 일 수 있습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>36</id>
-		<Text>Your target is a loner. They could be a Survivor, Witch or Werewolf.</Text>
+		<Text>너의 표적은 외롭다. 생존자, 마녀 또는 늑대 인간 일 수 있습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>37</id>
-		<Text>Your target may not be what they seem. They could be a Framer, Vampire, or Jester.</Text>
+		<Text>당신의 표적이 그들이 보이는 것처럼되지 않을 수도 있습니다. Framer, Vampire 또는 Jester 일 수 있습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>38</id>
-		<Text>Your target sticks to the shadows. They could be the Lookout, Forger or Amnesiac.</Text>
+		<Text>당신의 목표물이 그림자에 집착합니다. 그들은 Lookout, Forger 또는 Amnesiac 일 수 있습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>39</id>
-		<Text>A BodyGuard attacked you but someone nursed you back to health!</Text>
+		<Text>BodyGuard가 당신을 공격했지만 누군가가 당신을 건강에 다시 간호했습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>40</id>
-		<Text>A BodyGuard attacked you but someone fought off your attacker!</Text>
+		<Text>BodyGuard가 당신을 공격했지만 누군가 당신의 공격자와 싸웠습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>41</id>
-		<Text>You were killed by a BodyGuard!</Text>
+		<Text>당신은 BodyGuard에 의해 살해당했습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>42</id>
-		<Text>Someone attacked you but you are immune at night!</Text>
+		<Text>누군가 당신을 공격했지만 당신은 밤에는 면역이 없습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>43</id>
-		<Text>One of your targets was jailed so you could not transport them!</Text>
+		<Text>당신의 목표 중 하나가 투옥되어 당신이 그들을 수송 할 수 없었습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>44</id>
-		<Text>Your target is a trained protector, they must be a BodyGuard.</Text>
+		<Text>목표가 훈련 된 보호자라면 BodyGuard 여야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>45</id>
-		<Text>Your target specializes in transportation, they must be a Transporter.</Text>
+		<Text>당신의 목표물은 수송을 전문으로하며 수송기가되어야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>46</id>
-		<Text>Your target is a professional surgeon, they must be a Doctor.</Text>
+		<Text>귀하의 타겟은 전문 외과 의사이며 의사가되어야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>47</id>
-		<Text>Your target is a beautiful woman working for the town. She must be an Escort.</Text>
+		<Text>너의 표적은 그 마을에서 일하는 아름다운 여자 야. 그녀는 에스코트 여야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>48</id>
-		<Text>Your target gathers information about people. They must be an Investigator.</Text>
+		<Text>목표는 사람들에 대한 정보를 수집합니다. 그들은 수사관이어야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>49</id>
-		<Text>Your target detains people at night. They must be a Jailor.</Text>
+		<Text>목표물은 밤에 사람들을 억류합니다. 그들은 간수이어야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>50</id>
-		<Text>Your target watches who visits people at night. They must be a Lookout.</Text>
+		<Text>밤에 사람들을 방문하는 대상을 감시합니다. 그들은 감시해야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>51</id>
-		<Text>Your target is a member of a secret town organization. They must be a Mason.</Text>
+		<Text>귀하의 목표물은 비밀 마을 조직의 구성원입니다. 그들은 석수 여야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>52</id>
-		<Text>Your target the leader of a secret town organization. They must be a Mason Leader.</Text>
+		<Text>당신의 목표는 비밀 마을 조직의 리더입니다. 그들은 메이슨 리더 여야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>53</id>
-		<Text>Your target is the leader of the town. They must be the Mayor.</Text>
+		<Text>당신의 표적은 마을의 지도자입니다. 그들은 시장이어야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>54</id>
-		<Text>Your target a protector of the town. They must be a Sheriff.</Text>
+		<Text>마을의 수호자를 목표로 삼으십시오. 그들은 보안관이어야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>55</id>
-		<Text>Your target secretly listens in on private conversations. They must be a Spy.</Text>
+		<Text>귀하의 타겟은 비밀리에 대화를 듣습니다. 그들은 스파이 일 것임에 틀림 없다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>56</id>
-		<Text>Your target is a paranoid war hero. They must be a Veteran.</Text>
+		<Text>너의 표적은 편집증적인 전쟁 영웅이다. 베테랑이어야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>57</id>
-		<Text>Your target will bend the law to enact justice. They must be a Vigilante.</Text>
+		<Text>당신의 표적은 정의를 제정하는 법을 굽힐 것입니다. 그들은 자경단이되어야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>58</id>
-		<Text>Your target speaks with the dead. They must be a Medium.</Text>
+		<Text>당신의 표적은 죽은 자와 이야기합니다. 매체이어야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>59</id>
-		<Text>Your target wields mystical powers. They must be a Retributionist.</Text>
+		<Text>당신의 목표물은 신비한 힘을 행사합니다. 그들은 보복 주의자 여야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>60</id>
-		<Text>Your target uses information to silence people. They must be a Blackmailer.</Text>
+		<Text>귀하의 목표는 정보를 사용하여 사람들을 침묵시킵니다. 그들은 협박자 여야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>61</id>
-		<Text>Your target gathers information for the Mafia. They must be a Consigliere.</Text>
+		<Text>목표는 마피아에 대한 정보를 수집합니다. 그들은 Consigliere 여야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>62</id>
-		<Text>Your target is a beautiful woman working for the Mafia. She must be a Consort.</Text>
+		<Text>당신의 표적은 마피아를 위해 일하는 아름다운 여성입니다. 그녀는 배우자 여야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>63</id>
-		<Text>Your target pretends to be other people. They must be a Disguiser.</Text>
+		<Text>당신의 목표는 다른 사람들 인 것처럼 가장합니다. 그들은 변장자 여야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>64</id>
-		<Text>Your target is good at forging documents. They must be a Forger!</Text>
+		<Text>귀하의 목표는 문서 위조에 능합니다. 그들은 위조자 여야합니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>65</id>
-		<Text>Your target is the leader of the Mafia. They must be the Godfather.</Text>
+		<Text>귀하의 목표는 마피아의 리더입니다. 그들은 대부 여야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>66</id>
-		<Text>Your target cleans up dead bodies. They must be a Janitor.</Text>
+		<Text>목표물은 시체를 청소합니다. 그들은 수위에 올라야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>67</id>
-		<Text>Your target does the Godfather's dirty work. They must be a Mafioso.</Text>
+		<Text>당신 목표물은 대부의 더러운 일을합니다. 그들은 마피아 단야.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>68</id>
-		<Text>Your target does not remember their role. They must be an Amnesiac.</Text>
+		<Text>목표물이 자신의 역할을 기억하지 못합니다. 그들은 기억 상실증이되어야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>69</id>
-		<Text>Your target likes to watch things burn. They must be an Arsonist.</Text>
+		<Text>당신의 목표물은 물건을 보는 것을 좋아합니다. 그들은 방화범이어야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>70</id>
-		<Text>Your target is a member of an evil secret organization. They must be a Cultist.</Text>
+		<Text>귀하의 목표는 악의적 인 비밀 조직의 구성원입니다. 그들은 이교도 여야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>71</id>
-		<Text>Your target wants someone to be lynched at any cost. They must be an Executioner.</Text>
+		<Text>귀하의 타겟은 누군가가 어떤 비용으로도 린치되기를 원합니다. 사형 집행 인이어야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>72</id>
-		<Text>Your target wants to be lynched. They must be a Jester.</Text>
+		<Text>귀하의 타겟은 lynched되고 싶어. 그들은 광대 (Jester) 여야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>73</id>
-		<Text>Your target wants to kill everyone. They must be a Serial Killer.</Text>
+		<Text>목표물이 모든 사람을 죽이고 싶어합니다. 그들은 연쇄 살인범이어야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>74</id>
-		<Text>Your target simply wants to live. They must be a Survivor.</Text>
+		<Text>귀하의 타겟은 단순히 살기를 원합니다. 그들은 생존자 여야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>75</id>
-		<Text>Your target casts spells on people. They must be a Witch.</Text>
+		<Text>당신의 목표는 사람들에게 주문을 시전합니다. 그들은 마녀 여야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>76</id>
-		<Text>One of your targets was jailed so you could not control them.</Text>
+		<Text>당신의 목표 중 하나가 투옥되어 당신이 그들을 통제 할 수 없었습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>77</id>
-		<Text>Someone tried to role block you but you are immune!</Text>
+		<Text>누군가 당신을 막으려 고했지만 면역이되었습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>78</id>
-		<Text>You feel a mystical power dominating you. You were controlled by a Witch!</Text>
+		<Text>당신은 당신을 지배하는 신비한 힘을 느낍니다. 당신은 마녀가 통제했습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>79</id>
-		<Text>A Witch tried to control you but you are immune.</Text>
+		<Text>마녀가 당신을 통제하려했지만 당신은 면역이되었습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>80</id>
-		<Text>Someone tried to control you last night but you were jailed.</Text>
+		<Text>어제 밤 누군가가 당신을 통제하려했지만 당신은 투옥되었습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>81</id>
-		<Text>has joined the Town.</Text>
+		<Text>마을에 합류했습니다.</Text>
 		<Color>0x505050</Color>
 	</Entry>			
 	<Entry>
 		<id>82</id>
-		<Text>You have remembered who you were!</Text>
+		<Text>당신은 당신이 누구 였는지 기억했습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>83</id>
-		<Text>You were haunted by the Jester. You committed suicide over the guilt!</Text>
+		<Text>당신은 유태인에 의해 유령이났다. 죄책감으로 자살 했잖아!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>84</id>
-		<Text>You were attacked but your bulletproof vest saved you!</Text>
+		<Text>당신은 공격 받았지만 방탄 조끼가 당신을 구했습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>
 	<Entry>
 		<id>85</id>
-		<Text>You shot someone who visited you last night!</Text>
+		<Text>어젯밤에 너를 방문한 누군가를 쏜거야!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>86</id>
-		<Text>Someone tried to attack you but you cannot be killed while on alert!</Text>
+		<Text>누군가 당신을 공격하려했으나 경고하는 동안 살해 당할 수는 없습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>87</id>
-		<Text>You were haunted by the Jester. You tried to commit suicide but someone healed you!</Text>
+		<Text>당신은 유태인에 의해 유령이났다. 자살하려고했지만 누군가가 너를 고쳤다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>88</id>
-		<Text>You could not get over the guilt of killing a town member. You shot yourself!</Text>
+		<Text>마을 사람들을 살해 한 죄책감을 극복 할 수는 없었습니다. 너 자신을 쏜거야!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>89</id>
-		<Text>Someone role blocked you, so you attacked them!</Text>
+		<Text>누군가 당신을 막았 기 때문에 당신은 그들을 공격했습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>90</id>
-		<Text>The Godfather has ordered you to kill his target.</Text>
+		<Text>대부가 당신의 목표물을 죽이라는 명령을 내 렸습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>91</id>
-		<Text>You cannot resurrect a user who has left the game.</Text>
+		<Text>게임을 떠난 사용자는 부활 할 수 없습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>92</id>
-		<Text>You have cleaned the gasoline off of yourself.</Text>
+		<Text>당신은 휘발유를 스스로 청소했습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>93</id>
-		<Text>The jailor has decided to execute you.</Text>
+		<Text>간수가 당신을 처형하기로 결정했습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>94</id>
-		<Text>The jailor has changed his mind.</Text>
+		<Text>간수가 마음을 바꿨습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>95</id>
-		<Text>You were killed by the Serial Killer you jailed.</Text>
+		<Text>수감 한 연쇄 살인범이 당신을 죽였습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>96</id>
-		<Text>You attacked the jailor!</Text>
+		<Text>당신은 간수를 공격했습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>97</id>
-		<Text>Your target was immune to your attack!</Text>
+		<Text>당신의 목표는 당신의 공격에 면역이되었습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>98</id>
-		<Text>The jester will get his revenge from the grave!</Text>
+		<Text>광대는 무덤에서 복수를 얻습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>99</id>
-		<Text>You did not select a target so one was chosen at random.</Text>
+		<Text>당신은 표적을 선택하지 않았기 때문에 표적은 무작위로 선택되었습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>100</id>
-		<Text>There is a full moon out tonight.</Text>
+		<Text>오늘 밤 보름달이 있습니다.</Text>
 		<Color>0x00CCFF</Color>
 	</Entry>			
 	<Entry>
 		<id>101</id>
-		<Text>You attacked someone.</Text>
+		<Text>당신은 누군가를 공격했습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>102</id>
-		<Text>Your target is a Werewolf!</Text>
+		<Text>당신의 목표는 늑대 인간입니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>103</id>
-		<Text>You were attacked by a Werewolf!</Text>
+		<Text>당신은 늑대 인간에게 공격 받았습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>104</id>
-		<Text>The light of the full moon has transformed you into a rampaging Werewolf!</Text>
+		<Text>보름달의 불빛이 당신을 성난 늑대 인간으로 변화 시켰습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>105</id>
-		<Text>Someone role blocked you so you stayed at home tonight.</Text>
+		<Text>누군가 너를 막아서 오늘 밤 집에있을거야.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>106</id>
-		<Text>Your target howls at the moon. They must be a Werewolf.</Text>
+		<Text>당신의 목표는 달에서 울부 짖습니다. 그들은 늑대 인간이어야합니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>
 	<Entry>
 		<id>107</id>
-		<Text>You did not perform your day ability.</Text>
+		<Text>당신은 당신의 하루 능력을 수행하지 않았습니다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>108</id>
-		<Text>You did not perform your night ability.</Text>
+		<Text>너는 너의 야간 능력을 수행하지 않았다.</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>109</id>
-		<Text>You were staked by a Vampire Hunter!</Text>
+		<Text>당신은 뱀파이어 헌터에게 걸렸습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>110</id>
-		<Text>You were staked by the Vampire Hunter you visited!</Text>
+		<Text>네가 방문한 뱀파이어 헌터가 너 한테 걸렸어!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>			
 	<Entry>
 		<id>111</id>
-		<Text>You staked the Vampire who attacked you!</Text>
+		<Text>당신을 공격 한 뱀파이어가 걸었습니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>
 	<Entry>
 		<id>112</id>
-		<Text>Your target tracks Vampires. They must be a Vampire Hunter!</Text>
+		<Text>타겟이 뱀파이어를 추적합니다. 뱀파이어 헌터 여야합니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>
 	<Entry>
 		<id>113</id>
-		<Text>Your target drinks blood. They must be a Vampire!</Text>
+		<Text>목표가 피를 마신다. 그들은 뱀파이어 여야합니다!</Text>
 		<Color>0xFF0000</Color>
 	</Entry>
     <Entry>
         <id>114</id>
-        <Text>You were attacked by a Vampire!</Text>
+        <Text>당신은 뱀파이어에게 공격당했습니다!</Text>
         <Color>0xFF0000</Color>
     </Entry>
     <Entry>
         <id>115</id>
-        <Text>You can't whisper to a revealed Mayor.</Text>
+        <Text>당신은 계시 된 시장에게 속삭 일 수 없습니다.</Text>
         <Color>0xFF0000</Color>
     </Entry>
     <Entry>
         <id>116</id>
-        <Text>You can't whisper once you have revealed as the Mayor!</Text>
+        <Text>시장으로 밝혀지면 속삭이는 수 없습니다!</Text>
         <Color>0xFF0000</Color>
     </Entry>
     <Entry>
         <id>117</id>
-        <Text>You feel that someone can hear your conversations.</Text>
+        <Text>누군가가 당신의 대화를들을 수 있다고 생각합니다.</Text>
         <Color>0xFF0000</Color>
     </Entry>
     <Entry>
         <id>118</id>
-        <Text>You feel like you can speak privately.</Text>
+        <Text>사적으로 말할 수있는 것처럼 느껴집니다.</Text>
         <Color>0xFF0000</Color>
     </Entry>
 </Entries>
